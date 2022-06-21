@@ -1,0 +1,13 @@
+/home/zhangziqian/Documents/clion-2022.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/zhangziqian/Documents/clion-2022.1/bin/ninja/linux/ninja -G Ninja -S /home/zhangziqian/Desktop/OS_Project/Project3/Assignment1 -B /home/zhangziqian/Desktop/OS_Project/Project3/Assignment1/cmake-build-debug
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zhangziqian/Desktop/OS_Project/Project3/Assignment1/cmake-build-debug

@@ -1,0 +1,1 @@
+cmd_/home/zhangziqian/Desktop/OS_Project/Project1/Assignment1/simple.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/zhangziqian/Desktop/OS_Project/Project1/Assignment1/simple.ko /home/zhangziqian/Desktop/OS_Project/Project1/Assignment1/simple.o /home/zhangziqian/Desktop/OS_Project/Project1/Assignment1/simple.mod.o

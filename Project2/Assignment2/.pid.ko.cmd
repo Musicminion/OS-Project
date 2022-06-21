@@ -1,0 +1,1 @@
+cmd_/home/zhangziqian/Desktop/OS_Project/Project2/Assignment2/pid.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/zhangziqian/Desktop/OS_Project/Project2/Assignment2/pid.ko /home/zhangziqian/Desktop/OS_Project/Project2/Assignment2/pid.o /home/zhangziqian/Desktop/OS_Project/Project2/Assignment2/pid.mod.o

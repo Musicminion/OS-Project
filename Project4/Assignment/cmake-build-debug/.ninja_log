@@ -1,0 +1,11 @@
+# ninja log v5
+18	30	1650950798961270022	Project4	e74eeff97ad6781d
+0	23	1650950974217055583	CMakeFiles/Project4.dir/main.c.o	15724cd33cc098a4
+3	34	1650951290127247243	CMakeFiles/Project4.dir/schedule_fcfs.c.o	daa9fc8138006bf7
+0	32	1650951290108247010	CMakeFiles/Project4.dir/schedule_priority.c.o	503418be30565a55
+0	13	1650952074941160432	build.ninja	1375e6a95675d213
+32	52	1650951290140247401	CMakeFiles/Project4.dir/schedule_priority_rr.c.o	5f30956af5ef0724
+31	49	1650951290140247401	CMakeFiles/Project4.dir/schedule_sjf.c.o	e2f3a4ddc9008a45
+6	49	1650951290140247401	CMakeFiles/Project4.dir/schedule_rr.c.o	56a8e73404851494
+3	32	1650951290114247084	CMakeFiles/Project4.dir/CPU.c.o	83e98adc1b9e6745
+3	32	1650951290124247206	CMakeFiles/Project4.dir/list.c.o	4a97774528be6951

@@ -1,0 +1,10 @@
+Task1, 4, 20
+Task2, 3, 25
+Task3, 3, 25
+Task4, 5, 8
+Task5, 5, 20
+Task6, 1, 10
+Task7, 3, 30
+Task8, 10, 25
+Diff1, 2, 35
+Diff2, 7, 42

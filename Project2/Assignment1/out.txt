@@ -1,0 +1,9 @@
+123
+build.ninja
+cmake-build-debug
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+out.txt
+Project2
+result
